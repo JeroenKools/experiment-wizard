@@ -10,3 +10,5 @@ EPOC's 14 sensors. Both CSV and ARFF formats are supported. Eye tracker data are
 screen coordinates.
 
 Note that a Research Edition of the Emotiv EPOC is required to use the EEG recording features.
+
+For Windows binaries, see [here](https://code.google.com/archive/p/experiment-wizard/downloads).
